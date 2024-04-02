@@ -1,2 +1,4 @@
-# Database-creation-report-for-a-system
-University project: Database Design of the Loan System for the National Library of Peru
+# Database Design of the Loan System for the National Library of Peru
+
+> [!IMPORTANT]  
+> University work whose proposal was not implemented because it was carried out for practical purposes but was not implemented.
